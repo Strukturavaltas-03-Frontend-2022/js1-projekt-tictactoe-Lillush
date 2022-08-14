@@ -60,6 +60,8 @@
     width: 120px;
     height: 120px;
     border: 2px solid rgb(245, 237, 163);
+    font-size: 250%;
+    color: rgb(255, 238, 86);
     display: flex;
     justify-content: center;
     align-items: center;
